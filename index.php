@@ -323,7 +323,7 @@ Am also strong conceptive thinker who has strong interest in all things relating
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">O r i g a m i - SPA</h2>
+                    <h2 class="w-title">Origami - spa</h2>
                     <div class="w-more">
                       <span class="w-ctegory">SPA</span> / <span class="w-date">7 Jul. 2020</span>
                     </div>
