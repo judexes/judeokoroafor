@@ -454,12 +454,12 @@ Am also strong conceptive thinker who has strong interest in all things relating
                       </h5>
                     </div>
                     <div class="more-info">
-                      <p class="lead">
+<!--                       <p class="lead">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolorum dolorem soluta quidem
                         expedita aperiam aliquid at.
                         Totam magni ipsum suscipit amet? Autem nemo esse laboriosam ratione nobis
                         mollitia inventore?
-                      </p>
+                      </p> -->
                       <ul class="list-ico">
                         <li><span class="ion-ios-location"></span> Ikeja, Lagos, Nigeria</li>
                         <li><span class="ion-ios-telephone"></span> +234 813 204 6932</li>
