@@ -274,9 +274,9 @@ Am also strong conceptive thinker who has strong interest in all things relating
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Lorem impsum dolor</h2>
+                    <h2 class="w-title">Scan the Terms and Condition</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">TC Scan</span> / <span class="w-date">14 Jul. 2020</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
@@ -292,6 +292,32 @@ Am also strong conceptive thinker who has strong interest in all things relating
           </div>        
           <div class="col-md-4">
             <div class="work-box">
+              <a href="http://tcscan.herokuapp.com" data-gall="portfolioGallery" class="venobox">
+                <div class="work-img">
+                  <img src="assets/img/work-1.jpg" alt="" class="img-fluid">
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">Cyber Photography</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Neon</span> / <span class="w-date">14 Jul. 2020</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <a href="http://neonphotography.herokuapp.com">
+                    <div class="w-like">
+                      <a href="http://neonphotography.herokuapp.com"> <span class="fa fa-send-o fa-1"></span></a>
+                    </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>    
+          <div class="col-md-4">
+            <div class="work-box">
               <a href="assets/img/work-5.jpg" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
                   <img src="assets/img/work-5.jpg" alt="" class="img-fluid">
@@ -300,14 +326,38 @@ Am also strong conceptive thinker who has strong interest in all things relating
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Studio Lena Mado</h2>
+                    <h2 class="w-title">O r i g a m i - SPA</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">SPA</span> / <span class="w-date">7 Jul. 2020</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="https://origami2.netlify.app/origamispa2.html"> <span class="ion-ios-plus-outline"></span></a>
+                      <a href="https://origami2.netlify.app/origamispa2.html"> <span class="fa fa-send-o fa-1"></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>        
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/work-5.jpg" data-gall="portfolioGallery" class="venobox">
+                <div class="work-img">
+                  <img src="assets/img/work-5.jpg" alt="" class="img-fluid">
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">Fierce Cuts</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Barbershop</span> / <span class="w-date">23 Jun. 2020</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <a href="http://fiercecuts.netlify.app/contact.html"> <span class="fa fa-send-o fa-1"></span></a>
                     </div>
                   </div>
                 </div>
@@ -324,14 +374,14 @@ Am also strong conceptive thinker who has strong interest in all things relating
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Studio Big Bang</h2>
+                    <h2 class="w-title">From concept to creation - Folio.</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2017</span>
+                      <span class="w-ctegory">Portfolio</span> / <span class="w-date">30 Jun. 2020</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="http://fiercecuts.netlify.app/contact.html"> <span class="ion-ios-plus-outline"></span></a>
+                      <a href="http://fiercecuts.netlify.app/contact.html"> <span class="fa fa-send-o fa-1"></span></a>
                     </div>
                   </div>
                 </div>
