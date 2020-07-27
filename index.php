@@ -468,9 +468,9 @@ Am also strong conceptive thinker who has strong interest in all things relating
                     </div>
                     <div class="socials">
                       <ul>
-                        <li><a href=""><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
-                        <li><a href=""><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
-                        <li><a href=""><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
+                        <li><a href="https://www.facebook.com/JudeOkoroaforIfeanyi"><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
+                        <li><a href="https://www.instagram.com/dblacklagosboy"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
+                        <li><a href="https://www.twitter.com/dblacklagosboy"><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
                         <li><a href=""><span class="ico-circle"><i class="ion-social-pinterest"></i></span></a></li>
                       </ul>
                     </div>
@@ -491,7 +491,7 @@ Am also strong conceptive thinker who has strong interest in all things relating
       <div class="row">
         <div class="col-sm-12">
           <div class="copyright-box">
-            <p class="copyright">&copy; Copyright <strong>DevFolio</strong>. All Rights Reserved</p>
+            <p class="copyright">&copy; Copyright <strong>Jude Okoroafor</strong>. All Rights Reserved</p>
           </div>
         </div>
       </div>
