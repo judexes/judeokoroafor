@@ -302,7 +302,7 @@ Am also strong conceptive thinker who has strong interest in all things relating
                   <div class="col-sm-8">
                     <h2 class="w-title">Cyber Photography</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Neon</span> / <span class="w-date">14 Jul. 2020</span>
+                      <span class="w-ctegory">Neon</span> / <span class="w-date">21 Jul. 2020</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
@@ -491,7 +491,7 @@ Am also strong conceptive thinker who has strong interest in all things relating
       <div class="row">
         <div class="col-sm-12">
           <div class="copyright-box">
-            <p class="copyright">&copy; Copyright <strong>Jude Okoroafor</strong>. All Rights Reserved</p>
+            <p class="copyright">&copy; Copyright <strong>2020</strong>. All Rights Reserved</p>
           </div>
         </div>
       </div>
