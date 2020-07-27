@@ -342,7 +342,7 @@ Am also strong conceptive thinker who has strong interest in all things relating
           </div>        
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work-5.jpg" data-gall="portfolioGallery" class="venobox">
+              <a href="http://fiercecuts.netlify.app/contact.html" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
                   <img src="assets/img/work-5.jpg" alt="" class="img-fluid">
                 </div>
