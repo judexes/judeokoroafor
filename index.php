@@ -318,7 +318,7 @@ Am also strong conceptive thinker who has strong interest in all things relating
           </div>    
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work-5.jpg" data-gall="portfolioGallery" class="venobox">
+              <a href="https://origami2.netlify.app/origamispa2.html" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
                   <img src="assets/img/work-5.jpg" alt="" class="img-fluid">
                 </div>
@@ -366,7 +366,7 @@ Am also strong conceptive thinker who has strong interest in all things relating
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work-6.jpg" data-gall="portfolioGallery" class="venobox">
+              <a href="https://designers-portfolio.herokuapp.com/" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
                   <img src="assets/img/work-6.jpg" alt="" class="img-fluid">
                 </div>
@@ -381,7 +381,7 @@ Am also strong conceptive thinker who has strong interest in all things relating
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="http://fiercecuts.netlify.app/contact.html"> <span class="fa fa-send-o fa-1"></span></a>
+                      <a href="https://designers-portfolio.herokuapp.com/"> <span class="fa fa-send-o fa-1"></span></a>
                     </div>
                   </div>
                 </div>
