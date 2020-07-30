@@ -468,7 +468,7 @@ Am also strong conceptive thinker who has strong interest in all things relating
                         <li><a href="https://www.facebook.com/JudeOkoroaforIfeanyi"><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
                         <li><a href="https://www.instagram.com/dblacklagosboy"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
                         <li><a href="https://www.twitter.com/dblacklagosboy"><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
-                        <li><a href="#"><span class="ico-circle"><i class="ion-social-pinterest"></i></span></a></li>
+                        <li><a href="https://github.com/judexes"><span class="ico-circle"><i class="ion-social-github"></i></span></a></li>
                       </ul>
                     </div>
                   </div>
