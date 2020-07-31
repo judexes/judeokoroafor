@@ -9,7 +9,6 @@
   <meta name="title" content="Jude Okoroafor Portfolio">
   <meta name="description" content="Hngi7 Portfolio by jude okoroafor">
   <meta name="author" content="Jude Okoroafor">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
   <meta name="language" content="English">
@@ -263,9 +262,9 @@ Am also strong conceptive thinker who has strong interest in all things relating
         <div class="row">
           <div class="col-md-4">
             <div class="work-box">
-              <a href="http://tcscan.herokuapp.com" data-gall="portfolioGallery" class="venobox">
+              <a href="assets/img/work6.png" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
-                  <img src="assets/img/work-1.jpg" alt="" class="img-fluid">
+                  <img src="assets/img/work6.png" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -289,9 +288,9 @@ Am also strong conceptive thinker who has strong interest in all things relating
           </div>        
           <div class="col-md-4">
             <div class="work-box">
-              <a  href="http://neonphotography.herokuapp.com" data-gall="portfolioGallery" class="venobox">
+              <a  href="assets/img/work2.png" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
-                  <img src="assets/img/work-1.jpg" alt="" class="img-fluid">
+                  <img src="assets/img/work2.png" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -315,7 +314,7 @@ Am also strong conceptive thinker who has strong interest in all things relating
           </div>    
           <div class="col-md-4">
             <div class="work-box">
-              <a href="https://origami2.netlify.app/origamispa2.html" data-gall="portfolioGallery" class="venobox">
+              <a href="assets/img/work-5.jpg" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
                   <img src="assets/img/work-5.jpg" alt="" class="img-fluid">
                 </div>
@@ -339,9 +338,9 @@ Am also strong conceptive thinker who has strong interest in all things relating
           </div>        
           <div class="col-md-4">
             <div class="work-box">
-              <a href="http://fiercecuts.netlify.app/contact.html" data-gall="portfolioGallery" class="venobox">
+              <a href="assets/img/work8.jpg" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
-                  <img src="assets/img/work-5.jpg" alt="" class="img-fluid">
+                  <img src="assets/img/work8.jpg" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -363,9 +362,9 @@ Am also strong conceptive thinker who has strong interest in all things relating
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="https://designers-portfolio.herokuapp.com/" data-gall="portfolioGallery" class="venobox">
+              <a href="assets/img/work1.png" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
-                  <img src="assets/img/work-6.jpg" alt="" class="img-fluid">
+                  <img src="assets/img/work1.png" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -379,6 +378,30 @@ Am also strong conceptive thinker who has strong interest in all things relating
                   <div class="col-sm-4">
                     <div class="w-like">
                       <a href="https://designers-portfolio.herokuapp.com/"> <span class="fa fa-send-o fa-1"></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/work4.jpg" data-gall="portfolioGallery" class="venobox">
+                <div class="work-img">
+                  <img src="assets/img/work4.jpg" alt="" class="img-fluid">
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">Recent rewards</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Savager</span> / <span class="w-date">30 Jun. 2020</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <a href="https://savager.netlify.app/rewards.html"> <span class="fa fa-send-o fa-1"></span></a>
                     </div>
                   </div>
                 </div>
@@ -468,7 +491,7 @@ Am also strong conceptive thinker who has strong interest in all things relating
                         <li><a href="https://www.facebook.com/JudeOkoroaforIfeanyi"><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
                         <li><a href="https://www.instagram.com/dblacklagosboy"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
                         <li><a href="https://www.twitter.com/dblacklagosboy"><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
-                        <li><a href="#"><span class="ico-circle"><i class="ion-social-pinterest"></i></span></a></li>
+                        <li><a href="https://github.com/judexes"><span class="ico-circle"><i class="ion-social-github"></i></span></a></li>
                       </ul>
                     </div>
                   </div>
