@@ -117,7 +117,7 @@
                     <p class="lead">
                       I'm a self-taught coder currently in race against myself on becoming a world class full stack developer.<br>
                       I solve problems of all complexities and deliver solutions by converting random thoughts and designs to codes.<br>
-                      I am a firm believer in deep work and I spend my time executing what I have learnt. I know a whole lot about getting the job done. When I'm not "console.logging", I am either lost in my books or on chess.com. <br>
+                      I am a firm believer in deep work and I spend my time executing what I have learnt. I know a whole lot about getting the job done. When I'm not "console.logging", I am either lost in my books or on chess.com. <br><br>
                       Languages: I speak a bit of Dart, Java, JavaScript. I also know a lot about HTML, CSS, SCSS and bootstrap.<br>
                       Frameworks: Flutter, Laravel<br>
                       Databases: SQL

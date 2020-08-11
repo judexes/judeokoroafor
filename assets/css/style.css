@@ -7,6 +7,21 @@ body {
   color: #4e4e4e;
 }
 
+/* SCROLL BAR */
+body::-webkit-scrollbar {
+  width: 6px;                           /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: #01707100;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: rgb(204 204 204);    /* color of the scroll thumb */
+  border-radius:5%;                      /* roundness of the scroll thumb */
+  margin-right:1px;
+}
+
 h1,
 h2,
 h3,
