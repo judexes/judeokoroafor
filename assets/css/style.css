@@ -216,6 +216,7 @@ a:hover {
 
 .socials ul li {
   display: inline-block;
+  padding-bottom:1rem;
 }
 
 .socials .ico-circle {
