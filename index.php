@@ -6,7 +6,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Jude Okoroafor Ifeanyi</title>
-  <meta name="title" content="Jude Okoroafor Portfolio">
+  <meta name="title" content="Jude Okoroafor 👨 💻">
   <meta name="description" content="Let's not talk too much">
   <meta name="author" content="Jude Okoroafor">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
