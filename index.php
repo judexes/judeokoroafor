@@ -5,15 +5,20 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Jude Okoroafor HNGi7 Portfolio</title>
+  <title>Jude Okoroafor Ifeanyi</title>
   <meta name="title" content="Jude Okoroafor Portfolio">
-  <meta name="description" content="Hngi7 Portfolio by jude okoroafor">
+  <meta name="description" content="Portfolio - jude okoroafor">
   <meta name="author" content="Jude Okoroafor">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
   <meta name="language" content="English">
-
-  <!-- Favicons --><!-- 
+  <!-- Chrome, Firefox OS and Opera -->
+  <meta name="theme-color" content="#0062d3">
+  <!-- Windows Phone -->
+  <meta name="msapplication-navbutton-color" content="#0062d3">
+  <!-- iOS Safari -->
+  <meta name="apple-mobile-web-app-status-bar-style" content="#0062d3">
+  <!-- Favicons --><!--
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
 
@@ -33,7 +38,7 @@
   <!-- ======= Header/ Navbar ======= -->
   <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll" href="#page-top">// // //</a>
+      <a class="navbar-brand js-scroll" href="#page-top">dBlackLagosBoy</a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault" aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span></span>
         <span></span>
@@ -69,7 +74,7 @@
         <div class="container">
           <!--<p class="display-6 color-d">Hello, world!</p>-->
           <h1 class="intro-title mb-4">I am Jude Okoroafor</h1>
-          <p class="intro-subtitle"><span class="text-slider-items">Intern at HNGi7, Full Stack Web Developer, Beginner Mobile Dev,Student Of Mathematics and Computer Science</span><strong class="text-slider"></strong></p>
+          <p class="intro-subtitle"><span class="text-slider-items">Ex-Intern at HNGi7, Full Stack Web Developer, Beginner Mobile Dev,Student Of Mathematics and Computer Science</span><strong class="text-slider"></strong></p>
           <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
         </div>
       </div>
@@ -96,28 +101,9 @@
                       <div class="about-info">
                         <p><span class="title-s">Name: </span> <span>Jude Okoroafor</span></p>
                         <p><span class="title-s">Profile: </span> <span>Web developer</span></p>
-                        <p><span class="title-s">Email: </span> <span>judeokoroafor@gmail.com</span></p>
-                        <p><span class="title-s">Phone: </span> <span>+234 813 204 6932</span></p>
+                        <p><span class="title-s">Email: </span> <a href="mailto:judeokoroafor@gmail.com"><span>judeokoroafor@gmail.com</span></a></p>
+                        <p><span class="title-s">Phone: </span> <a href="tel:08132046932"><span>+234 813 204 6932</span></a></p>
                       </div>
-                    </div>
-                  </div>
-                  <div class="skill-mf">
-                    <p class="title-s">Skill</p>
-                    <span>HTML</span> <span class="pull-right">100%</span>
-                    <div class="progress">
-                      <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                    <span>CSS3</span> <span class="pull-right">95%</span>
-                    <div class="progress">
-                      <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                    <span>PHP</span> <span class="pull-right">50%</span>
-                    <div class="progress">
-                      <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                    <span>JAVASCRIPT</span> <span class="pull-right">50%</span>
-                    <div class="progress">
-                      <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                   </div>
                 </div>
@@ -128,11 +114,13 @@
                         About me
                       </h5>
                     </div>
-                    <p class="lead">I am very interested in growing the deep learning community through research and knowledge. My personal goal of to invest my time and energy in growing the community since it's something i have found much interest in and my professional achievement include building a game in python using pygame and scrapping twitter using beautifulSoup. My professional goals are:<br>
-1. Using AI applications to solve the problem of Air pollution in my community<br>
-2. Using Machine Learning and robotics to solve the problem of online theft<br>
-3. And most of all is to develop thinking computer systems to help solve the problem of global warming.<br>
-Am also strong conceptive thinker who has strong interest in all things relating to the internet. Jude is a web developer since 2014, he has experience in designing, developing and deployment of interactive websites. Able to complete projects efficiently and satisfy customers with responsive and attractive user-friendly websites.
+                    <p class="lead">
+                      I'm a self-taught coder currently in race against myself on becoming a world class full stack developer.<br>
+                      I solve problems of all complexities and deliver solutions by converting random thoughts and designs to codes.<br>
+                      I am a firm believer in deep work and I spend my time executing what I have learnt. I know a whole lot about getting the job done. When I'm not "console.logging", I am either lost in my books or on chess.com. <br>
+                      Languages: I speak a bit of Dart, Java, JavaScript. I also know a lot about HTML, CSS, SCSS and bootstrap.<br>
+                      Frameworks: Flutter, Laravel<br>
+                      Databases: SQL
                   </div>
                 </div>
               </div>
@@ -262,98 +250,98 @@ Am also strong conceptive thinker who has strong interest in all things relating
         <div class="row">
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work6.png" data-gall="portfolioGallery" class="venobox">
+              <a href="assets/img/screenshots/tcscan.png" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
-                  <img src="assets/img/work6.png" alt="" class="img-fluid">
+                  <img src="assets/img/screenshots/tcscan-shot.png" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
                 <div class="row">
-                  <div class="col-sm-8">
+                  <div class="col-10">
                     <h2 class="w-title">Scan the Terms and Condition</h2>
                     <div class="w-more">
                       <span class="w-ctegory">TC Scan</span> / <span class="w-date">14 Jul. 2020</span>
                     </div>
                   </div>
-                  <div class="col-sm-4">
+                  <div class="col-2">
                     <a href="http://tcscan.herokuapp.com">
                     <div class="w-like">
-                      <a href="http://tcscan.herokuapp.com"> <span class="fa fa-send-o fa-1"></span></a>
+                      <a href="http://tcscan.herokuapp.com"> <span class="fa fa-paper-plane fa-5x"></span></a>
                     </div>
                     </a>
                   </div>
                 </div>
               </div>
             </div>
-          </div>        
+          </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a  href="assets/img/work2.png" data-gall="portfolioGallery" class="venobox">
+              <a  href="assets/img/screenshots/neon.png" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
-                  <img src="assets/img/work2.png" alt="" class="img-fluid">
+                  <img src="assets/img/screenshots/neon-shot.png" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
                 <div class="row">
-                  <div class="col-sm-8">
+                  <div class="col-10">
                     <h2 class="w-title">Cyber Photography</h2>
                     <div class="w-more">
                       <span class="w-ctegory">Neon</span> / <span class="w-date">21 Jul. 2020</span>
                     </div>
                   </div>
-                  <div class="col-sm-4">
+                  <div class="col-2">
                     <a href="http://neonphotography.herokuapp.com">
                     <div class="w-like">
-                      <a href="http://neonphotography.herokuapp.com"> <span class="fa fa-send-o fa-1"></span></a>
+                      <a href="http://neonphotography.herokuapp.com"> <span class="fa fa-paper-plane fa-5x"></span></a>
                     </div>
                     </a>
                   </div>
                 </div>
               </div>
             </div>
-          </div>    
+          </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work-5.jpg" data-gall="portfolioGallery" class="venobox">
+              <a href="assets/img/screenshots/spa.png" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
-                  <img src="assets/img/work-5.jpg" alt="" class="img-fluid">
+                  <img src="assets/img/screenshots/spa-shot.png" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
                 <div class="row">
-                  <div class="col-sm-8">
+                  <div class="col-10">
                     <h2 class="w-title">Origami - spa</h2>
                     <div class="w-more">
                       <span class="w-ctegory">SPA</span> / <span class="w-date">7 Jul. 2020</span>
                     </div>
                   </div>
-                  <div class="col-sm-4">
+                  <div class="col-2">
                     <div class="w-like">
-                      <a href="https://origami2.netlify.app/origamispa2.html"> <span class="fa fa-send-o fa-1"></span></a>
+                      <a href="https://origami2.netlify.app/origamispa2.html"> <span class="fa fa-paper-plane fa-5x"></span></a>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-          </div>        
+          </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work8.jpg" data-gall="portfolioGallery" class="venobox">
+              <a href="assets/img/screenshots/barbershop.png" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
-                  <img src="assets/img/work8.jpg" alt="" class="img-fluid">
+                  <img src="assets/img/screenshots/barbershop-shot.png" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
                 <div class="row">
-                  <div class="col-sm-8">
+                  <div class="col-10">
                     <h2 class="w-title">Fierce Cuts</h2>
                     <div class="w-more">
                       <span class="w-ctegory">Barbershop</span> / <span class="w-date">23 Jun. 2020</span>
                     </div>
                   </div>
-                  <div class="col-sm-4">
+                  <div class="col-2">
                     <div class="w-like">
-                      <a href="http://fiercecuts.netlify.app/contact.html"> <span class="fa fa-send-o fa-1"></span></a>
+                      <a href="http://fiercecuts.netlify.app/contact.html"> <span class="fa fa-paper-plane fa-5x"></span></a>
                     </div>
                   </div>
                 </div>
@@ -362,22 +350,22 @@ Am also strong conceptive thinker who has strong interest in all things relating
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work1.png" data-gall="portfolioGallery" class="venobox">
+              <a href="assets/img/screenshots/folio.png" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
-                  <img src="assets/img/work1.png" alt="" class="img-fluid">
+                  <img src="assets/img/screenshots/folio-shot.png" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
                 <div class="row">
-                  <div class="col-sm-8">
+                  <div class="col-10">
                     <h2 class="w-title">From concept to creation - Folio.</h2>
                     <div class="w-more">
                       <span class="w-ctegory">Portfolio</span> / <span class="w-date">30 Jun. 2020</span>
                     </div>
                   </div>
-                  <div class="col-sm-4">
+                  <div class="col-2">
                     <div class="w-like">
-                      <a href="https://designers-portfolio.herokuapp.com/"> <span class="fa fa-send-o fa-1"></span></a>
+                      <a href="https://designers-portfolio.herokuapp.com/"> <span class="fa fa-paper-plane fa-5x"></span></a>
                     </div>
                   </div>
                 </div>
@@ -386,29 +374,100 @@ Am also strong conceptive thinker who has strong interest in all things relating
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work4.jpg" data-gall="portfolioGallery" class="venobox">
+              <a href="assets/img/screenshots/savager.png" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
-                  <img src="assets/img/work4.jpg" alt="" class="img-fluid">
+                  <img src="assets/img/screenshots/savager-shot.png" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
                 <div class="row">
-                  <div class="col-sm-8">
+                  <div class="col-10">
                     <h2 class="w-title">Recent rewards</h2>
                     <div class="w-more">
                       <span class="w-ctegory">Savager</span> / <span class="w-date">30 Jun. 2020</span>
                     </div>
                   </div>
-                  <div class="col-sm-4">
+                  <div class="col-2">
                     <div class="w-like">
-                      <a href="https://savager.netlify.app/rewards.html"> <span class="fa fa-send-o fa-1"></span></a>
+                      <a href="https://savager.netlify.app/rewards.html"> <span class="fa fa-paper-plane fa-5x"></span></a>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/screenshots/getstarted.png" data-gall="portfolioGallery" class="venobox">
+                <div class="work-img">
+                  <img src="assets/img/screenshots/ideaco-get-started.png" alt="" class="img-fluid">
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-10">
+                    <h2 class="w-title">Get started</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Idea Manager</span> / <span class="w-date">6 Aug. 2020</span>
+                    </div>
+                  </div>
+                  <div class="col-2">
+                    <div class="w-like">
+                      <a href="https://ideamanagement.netlify.app/get-started.html/"> <span class="fa fa-paper-plane fa-5x"></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/screenshots/about.png" data-gall="ideaco" class="venobox">
+                <div class="work-img">
+                  <img src="assets/img/screenshots/ideaco-about-shot.png" alt="" class="img-fluid">
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-10">
+                    <h2 class="w-title">About</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Idea Manager</span> / <span class="w-date">6 Aug. 2020</span>
+                    </div>
+                  </div>
+                  <div class="col-2">
+                    <div class="w-like">
+                      <a href="https://ideamanagement.netlify.app/about.html"> <span class="fa fa-paper-plane fa-5x"></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/screenshots/signup.png" data-gall="portfolioGallery" class="venobox">
+                <div class="work-img">
+                  <img src="assets/img/screenshots/ideaco-invite.png" alt="" class="img-fluid">
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-10">
+                    <h2 class="w-title">Sign Up form</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Idea Manager</span> / <span class="w-date">6 Aug. 2020</span>
+                    </div>
+                  </div>
+                  <div class="col-2">
+                    <div class="w-like">
+                      <a href="https://ideamanagement.netlify.app/sign-up.html"> <span class="fa fa-paper-plane fa-5x"></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section><!-- End Portfolio Section -->
@@ -482,8 +541,8 @@ Am also strong conceptive thinker who has strong interest in all things relating
                       </p> -->
                       <ul class="list-ico">
                         <li><span class="ion-ios-location"></span> Ikeja, Lagos, Nigeria</li>
-                        <li><span class="ion-ios-telephone"></span> +234 813 204 6932</li>
-                        <li><span class="ion-email"></span> judeokoroafor@gmail.com</li>
+                        <li><a href="tel:08132046932"><span class="ion-ios-telephone"></span> +234 813 204 6932</a></li>
+                        <li><a href="mailto:judeokoroafor@gmail.com"><span class="ion-email"></span> judeokoroafor@gmail.com</a></li>
                       </ul>
                     </div>
                     <div class="socials">
@@ -491,6 +550,7 @@ Am also strong conceptive thinker who has strong interest in all things relating
                         <li><a href="https://www.facebook.com/JudeOkoroaforIfeanyi"><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
                         <li><a href="https://www.instagram.com/dblacklagosboy"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
                         <li><a href="https://www.twitter.com/dblacklagosboy"><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
+                        <li><a href="https://www.linkedin.com/in/jude-okoroafor"><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li>
                         <li><a href="https://github.com/judexes"><span class="ico-circle"><i class="ion-social-github"></i></span></a></li>
                       </ul>
                     </div>
