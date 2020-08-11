@@ -422,7 +422,7 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/screenshots/about.png" data-gall="ideaco" class="venobox">
+              <a href="assets/img/screenshots/about.png" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
                   <img src="assets/img/screenshots/ideaco-about-shot.png" alt="" class="img-fluid">
                 </div>
